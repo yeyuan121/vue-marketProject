@@ -1,0 +1,5 @@
+import './home'
+import './search'
+import './cart'
+import './my'
+import './detail'
